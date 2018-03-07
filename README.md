@@ -12,4 +12,4 @@ Steps:
  9. Run perfrmance tests, make 150 req/sec on none windows system -> high failure rate with: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 31 - Encryption(ssl/tls) handshake failed)
  
  
- Tests with Azure Germany SQL
+ Tested with Azure Germany SQL
